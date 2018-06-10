@@ -1,2 +1,2 @@
 # hello-world
-First repository to get my feet wet
+first repository to understand how github works
