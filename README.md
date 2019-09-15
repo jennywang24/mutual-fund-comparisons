@@ -1,5 +1,3 @@
-# hello-world
+# mutual-fund-comparisons
 
-Hello World! 
-
-I'm starting a github repository to work on and share some coding projects and learn how development within this framework works. 
+I'm starting this github repository to share some web scraping and data analysis on mutual fund comparisons within a market segment in order to test the correlations between past mutual fund performance vs market segment and future years performance. 
